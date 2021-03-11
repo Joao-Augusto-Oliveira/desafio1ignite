@@ -46,7 +46,7 @@ $ cd desafio1ignite
 $ yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn start
+$ yarn dev
 
 
 ```
